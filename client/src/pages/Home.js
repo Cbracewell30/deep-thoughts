@@ -1,6 +1,6 @@
 import { useQuery } from "@apollo/client";
 import React from "react";
-import { QUERY_THOUGHTS } from "../queries";
+import { QUERY_THOUGHTS } from "../utils/queries";
 import ThoughtList from "../components/ThoughtList";
 
 const Home = () => {
