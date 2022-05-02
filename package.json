@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Cbracewell30/deep-thouhgts#readme",
   "devDependencies": {
     "concurrently": "^7.1.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
   }
 }
